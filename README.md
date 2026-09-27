@@ -17,6 +17,17 @@
 
 UPDATE: **WORKS BOTH ON 20 SERIES AND 30 SERIES. no need to install two different managers anymore.**
 
+
+| Crop | Fix20 wrong pixels | Fix21 wrong pixels |
+| :--- | :---: | :---: |
+| Roofs / chimney | 2,275 | 320 (-86%) |
+| Ground | 355 | 81 |
+| HUD over clouds | 7,892 | 6,681 |
+| Building edge | 5,373 | 5,013 |
+| Other buildings | 1,372 | 1,118 |
+| **Total** | **17,267** | **13,213** |
+
+
 <img width="1905" height="983" alt="image" src="https://github.com/user-attachments/assets/585c3841-f802-4174-aaf5-a3f8d3f98011" />
 
 
