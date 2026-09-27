@@ -15,7 +15,7 @@
 -------------------------------------------------------------
 
 
-UPDATE: **ADDED SMOOTH MOTION FOR 20 SERIES**
+UPDATE: **WORKS BOTH ON 20 SERIES AND 30 SERIES. no need to install two different managers anymore.**
 
 <img width="1905" height="983" alt="image" src="https://github.com/user-attachments/assets/585c3841-f802-4174-aaf5-a3f8d3f98011" />
 
