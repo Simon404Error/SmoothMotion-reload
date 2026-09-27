@@ -17,7 +17,8 @@
 
 UPDATE: **ADDED SMOOTH MOTION FOR 20 SERIES**
 
-<img width="1907" height="952" alt="image" src="https://github.com/user-attachments/assets/5fd0586e-4433-4a3e-9943-7158718869bb" />
+<img width="1905" height="983" alt="image" src="https://github.com/user-attachments/assets/585c3841-f802-4174-aaf5-a3f8d3f98011" />
+
 
 
 -------------------------------------------------------------
