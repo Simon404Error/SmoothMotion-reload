@@ -17,6 +17,7 @@
 
 UPDATE: **WORKS BOTH ON 20 SERIES AND 30 SERIES. no need to install two different managers anymore.**
 
+**Picture quality (PSNR, higher is better) went from 29.70 to 30.30 dB.**
 
 | Crop | Fix20 wrong pixels | Fix21 wrong pixels |
 | :--- | :---: | :---: |
