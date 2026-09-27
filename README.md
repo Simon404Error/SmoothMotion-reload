@@ -19,6 +19,8 @@ UPDATE: **WORKS BOTH ON 20 SERIES AND 30 SERIES. no need to install two differen
 
 **Picture quality (PSNR, higher is better) went from 29.70 to 30.30 dB.**
 
+New update:
+
 | Crop | Fix20 wrong pixels | Fix21 wrong pixels |
 | :--- | :---: | :---: |
 | Roofs / chimney | 2,275 | 320 (-86%) |
