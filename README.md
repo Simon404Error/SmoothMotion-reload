@@ -11,6 +11,7 @@ English users please translate into English by yourselves
 ## 与上游仓库的区别
 
 1.兼容《绝地潜兵2》(Helldivers 2) 的 BOX 修改器，这部分修改暂未开源。
+
 2.为 Manager 添加了启动时是否扫描游戏的开关
 
 ## 仓库内容
