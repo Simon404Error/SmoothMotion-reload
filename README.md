@@ -1,6 +1,6 @@
 # SmoothMotion-reload
 
-English users please translate into English by yourselves
+# English users please translate into English by yourselves :)
 
 本仓库是 [pipotoufikxyz-lgtm/dlssg_for_sm86-MFG-version](https://github.com/pipotoufikxyz-lgtm/dlssg_for_sm86-MFG-version) 的 fork
 
@@ -10,7 +10,7 @@ English users please translate into English by yourselves
 
 ## 与上游仓库的区别
 
-1.兼容《绝地潜兵2》(Helldivers 2) 的 BOX 修改器，这部分修改暂未开源。
+1.兼容《绝地潜兵2》(Helldivers 2) 的 BOX 修改器，这部分修改暂未开源
 
 2.为 Manager 添加了启动时是否扫描游戏的开关
 
